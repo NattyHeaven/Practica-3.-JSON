@@ -1,0 +1,89 @@
+{
+    "supermercados": [
+      {
+        "nombre": "MiAlcampo",
+        "direccion": "Guadaira, 2, 28018 Madrid, Madrid",
+        "geolocalizacion": {
+          "latitud": "40.38671338224197",
+          "longitud": "-3.65013254967038"
+        },
+        "productos": [
+          {
+            "nombre_del_producto": "Huevos",
+            "oferta": false,
+            "periodo_de_vigencia": "2023-05-31",
+            "unidad_de_medida": "docenas",
+            "unidades": 1,
+            "precio": 2.70,
+            "adquirido": true
+          },
+          {
+            "nombre_del_producto": "Harina",
+            "oferta": true,
+            "periodo_de_vigencia": "2023-06-10",
+            "unidad_de_medida": "unidades",
+            "unidades": 2,
+            "precio": 1.20,
+            "adquirido": false
+          }
+        ]
+      },
+      {
+        "nombre": "Lidl",
+        "direccion": "Carretera Vicalvaro a Vallecas 10, 28031 Madrid, Madrid",
+        "geolocalizacion": {
+          "latitud": "40.38319613928529",
+          "longitud": "-3.627178449205763"
+        },
+        "productos": [
+          {
+            "nombre_del_producto": "Leche",
+            "oferta": false,
+            "periodo_de_vigencia": "2023-05-31",
+            "unidad_de_medida": "litros",
+            "unidades": 6,
+            "precio": 1.20,
+            "adquirido": false
+          },
+          {
+            "nombre_del_producto": "Aceite_de_girasol",
+            "oferta": true,
+            "periodo_de_vigencia": "2024-05-31",
+            "unidad_de_medida": "litros",
+            "unidades": 1,
+            "precio": 1.90,
+            "adquirido": true
+          }
+        ]
+      },
+      {
+        "nombre": "Mercadona",
+        "direccion": "Avenida de la Albufera 153, 28012 Madrid, Madrid",
+        "geolocalizacion": {
+          "latitud": "40.392080792979925",
+          "longitud": "-3.6556563745763384"
+        },
+        "productos": [
+          {
+            "nombre_del_producto": "Pepino",
+            "oferta": false,
+            "periodo_de_vigencia": "2023-05-31",
+            "unidad_de_medida": "kilogramos",
+            "unidades": 5,
+            "precio": 3.00,
+            "adquirido": true
+          },
+          {
+            "nombre_del_producto": "Arroz",
+            "oferta": true,
+            "periodo_de_vigencia": "2024-05-31",
+            "unidad_de_medida": "kilogramos",
+            "unidades": 2,
+            "precio": 2.50,
+            "adquirido": true
+          }
+        ]
+      }
+    ]
+  }
+  

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<supermercados>
+  <supermercado>
+    <nombre>MiAlcampo</nombre>
+    <direccion>Guadaira, 2, 28018 Madrid, Madrid</direccion>
+    <geolocalizacion>
+      <latitud>40.38671338224197</latitud>
+      <longitud>-3.65013254967038</longitud>
+    </geolocalizacion>
+
+    <productos>
+      <producto>
+        <nombre_del_producto>Huevos</nombre_del_producto>
+        <oferta>false</oferta>
+        <periodo_de_vigencia>2023-05-31</periodo_de_vigencia>
+        <unidad_de_medida>docenas</unidad_de_medida>
+        <unidades>1</unidades>
+        <precio>2.70</precio>
+        <adquirido>true</adquirido>
+      </producto>
+
+      <producto>
+        <nombre_del_producto>Harina</nombre_del_producto>
+        <oferta>true</oferta>
+        <periodo_de_vigencia>2023-06-10</periodo_de_vigencia>
+        <unidad_de_medida>unidades</unidad_de_medida>
+        <unidades>2</unidades>
+        <precio>1.20</precio>
+        <adquirido>false</adquirido>
+      </producto>
+    </productos>
+  </supermercado>
+
+  <supermercado>
+    <nombre>Lidl</nombre>
+    <direccion>Carretera Vicalvaro a Vallecas 10, 28031 Madrid, Madrid</direccion>
+    <geolocalizacion>
+      <latitud>40.38319613928529</latitud>
+      <longitud>-3.627178449205763</longitud>
+    </geolocalizacion>
+
+    <productos>
+      <producto>
+        <nombre_del_producto>Leche</nombre_del_producto>
+        <oferta>false</oferta>
+        <periodo_de_vigencia>2023-05-31</periodo_de_vigencia>
+        <unidad_de_medida>litros</unidad_de_medida>
+        <unidades>6</unidades>
+        <precio>1.20</precio>
+        <adquirido>false</adquirido>
+      </producto>
+
+      <producto>
+        <nombre_del_producto>Aceite_de_girasol</nombre_del_producto>
+        <oferta>true</oferta>
+        <periodo_de_vigencia>2024-05-31</periodo_de_vigencia>
+        <unidad_de_medida>litros</unidad_de_medida>
+        <unidades>1</unidades>
+        <precio>1.90</precio>
+        <adquirido>true</adquirido>
+      </producto>
+    </productos>
+  </supermercado>
+
+  <supermercado>
+    <nombre>Mercadona</nombre>
+    <direccion>Avenida de la Albufera 153, 28012 Madrid, Madrid</direccion>
+    <geolocalizacion>
+      <latitud>40.392080792979925</latitud>
+      <longitud>-3.6556563745763384</longitud>
+    </geolocalizacion>
+
+    <productos>
+      <producto>
+        <nombre_del_producto>Pepino</nombre_del_producto>
+        <oferta>false</oferta>
+        <periodo_de_vigencia>2023-05-31</periodo_de_vigencia>
+        <unidad_de_medida>kilogramos</unidad_de_medida>
+        <unidades>5</unidades>
+        <precio>3.00</precio>
+        <adquirido>true</adquirido>
+      </producto>
+
+      <producto>
+        <nombre_del_producto>Arroz</nombre_del_producto>
+        <oferta>true</oferta>
+        <periodo_de_vigencia>2024-05-31</periodo_de_vigencia>
+        <unidad_de_medida>kilogramos</unidad_de_medida>
+        <unidades>2</unidades>
+        <precio>2.50</precio>
+        <adquirido>true</adquirido>
+      </producto>
+    </productos>
+  </supermercado>
+</supermercados>
